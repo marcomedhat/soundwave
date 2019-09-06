@@ -109,3 +109,9 @@
   background-color: rgba(52, 87, 178, 0.1);
   transform: translateY(-30%);
 }
+
+@media(max-width: 630px) {
+  .join-form {
+    padding: 1.5rem 1rem;
+  }
+}

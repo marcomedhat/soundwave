@@ -44,4 +44,14 @@
     height: 30vh;
     width: auto;
   }
+
+  .icon-section {
+    justify-content: center;
+  }
+}
+
+@media(max-width: 345px) {
+  .call-to-action {
+    width: 100%;
+  }
 }
